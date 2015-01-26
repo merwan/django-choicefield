@@ -1,4 +1,4 @@
-# Output from `python manage.py test`
+#Output from `python manage.py test`
 
 ```
 Creating test database for alias 'default'...
